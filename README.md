@@ -152,11 +152,12 @@ urlpatterns = [
 ~~~
 
 ## SERVER SIDE PROCESSING:
-![Screenshot 2025-04-28 211343](https://github.com/user-attachments/assets/c32c804e-665b-4727-bb91-eeca1ab160d9)
+![Screenshot 2025-05-03 142812](https://github.com/user-attachments/assets/136a00a0-b8c2-48c3-96f4-5d1ec1dd7c95)
+
 
 
 ## HOMEPAGE:
-![Screenshot 2025-04-28 211214](https://github.com/user-attachments/assets/33b41a96-ab03-4a7f-a386-477d3918238f)
+![Screenshot 2025-05-03 142823](https://github.com/user-attachments/assets/67993eae-5e60-4cc5-bb3d-471a73eb5fff)
 
 
 ## RESULT:
